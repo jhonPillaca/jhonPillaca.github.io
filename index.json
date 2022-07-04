@@ -4,6 +4,7 @@
         {
             "nombre": "Director de Recursos Humanos",
             "categoria": "Negocios",
+            "img":"https://www.cesuma.mx/images/easyblog_articles/300/b2ap3_amp_Competencias-de-un-director-de-RRHH-en-la-actualidad.png",
             "descripcion": "Sé capaz de interpretar datos y tomar decisiones para liderar un departamento de RR.HH. Estudia una de las titulaciones más demandadas por las empresas.",
             "doncente": "Pedro Daniel Gomez",
             "hora": 3,
@@ -22,6 +23,7 @@
         {
             "nombre": "Técnico de selección de personal",
             "categoria": "Negocios",
+            "img":"https://2.bp.blogspot.com/-mqcTItG6zBc/WmtxFehMHvI/AAAAAAAABq8/16Jeyum7vUMQknaqHlnrivYfR7H41i6DQCLcBGAs/s1600/entrevistador.jpg",
             "descripcion": "Técnico en Selección de Personal 2.0: Expert@ en Búsqueda y Gestión del Talento a través de las Redes Sociales",
             "doncente": "Alvaro Irigoitia",
             "hora": 2,
@@ -47,6 +49,7 @@
         {
             "nombre": "Business Partner en Recursos Humanos",
             "categoria": "Negocios",
+            "img":"https://www.thealternativeboard.com/hs-fs/hubfs/Imported_Blog_Media/bigstock-Business-handshake-Business-m-110858918-1.jpg?width=670&name=bigstock-Business-handshake-Business-m-110858918-1.jpg",
             "descripcion": "Un HR Business Partner es un profesional de recursos humanos que actúa como consultor interno, y aliado estratégico de la alta gerencia...",
             "doncente": "Alvaro Irigoitia",
             "hora": 4,
@@ -65,6 +68,7 @@
         {
             "nombre": "Talent Manager en el área de Recursos Humanos",
             "categoria": "Negocios",
+            "img":"https://www.cae.net/wp-content/uploads/2016/05/talent-management-system.jpg",
             "descripcion": "Aprende a gestionar profesionalmente las redes de tu propia marca o consigue cleintes que necesiten este servicio",
             "doncente": "Carlos Izquierdo",
             "hora": 3,
@@ -82,6 +86,7 @@
         {
             "nombre": "Administración de personal",
             "categoria": "Negocios",
+            "img":"https://quadranslawandfinance.com/wp-content/uploads/2019/03/administracion-de-personal.jpg",
             "descripcion": "Elimina el estres de tu vida. Planifica tu tiempo, organiza y alcanza tus metas",
             "doncente": "Fernando del Arco",
             "hora": 3,
@@ -100,6 +105,7 @@
         {
             "nombre": "Comunicación interna del área de RRHH",
             "categoria": "Negocios",
+            "img":"https://encolombia.com/wp-content/uploads/2019/05/efectividad-comunicacion-empresa.jpg",
             "descripcion": "3 pasas para  conectar con el mundo interno",
             "doncente": "David Bejarano",
             "hora": 4,
@@ -117,6 +123,7 @@
         {
             "nombre": "Fundamentos Empresariales",
             "categoria": "Emprendimiento",
+            "img":"https://staticupthemedia.s3.amazonaws.com/upload/fundamentos-empresariales-startup-471x250.jpg",
             "descripcion": "Aprende Finanzas, contabilidad, análisis de estados financieros, inversiones, modelos financieros y valoración.",
             "docente": "José C. Herrera",
             "hora": 2,
@@ -134,6 +141,7 @@
         {
             "nombre": "Fundamentos de Emprendimiento",
             "categoria": "Emprendimiento",
+            "img":"https://www.galileo.edu/facultad-de-administracion/files/2021/11/Emprendimiento-Tecnolo4gico-.jpg",
             "descripcion": "Domina los 4 principios detrás de emprendimientos exitosos, minimiza riesgos y maximiza resultados.",
             "docente": "José Luis Andrade",
             "hora": 2,
@@ -150,6 +158,7 @@
         {
             "nombre": "Estrategia de Negocio",
             "categoria": "Emprendimiento",
+            "img":"https://retos-directivos.eae.es/wp-content/uploads/2015/05/estrategia-plan.jpg",
             "descripcion": "Aprende a utilizar Pinterest para generar una base de seguidores deseosos de tus productos y servicios.",
             "docente": "José Luis Andrade",
             "hora": 2,
@@ -170,6 +179,7 @@
         {
             "nombre": "Coaching y Liderazgo Organizacional",
             "categoria": "Emprendimiento",
+            "img":"https://emotionalwellnessinstitute.us/wp-content/uploads/2022/03/Coaching-y-liderazgo-organizacional-a-distancia.png",
             "descripcion": "Curso de iniciación Profesional al Coaching Ontológico aplicado al Liderazgo en Organizaciones y Empresas emergentes",
             "docente": "María Eugenia",
             "hora": 5,
@@ -188,6 +198,7 @@
         {
             "nombre": "Plan de Negocio",
             "categoria": "Emprendimiento",
+            "img":"https://www.cmcnegocio.com/wp-content/uploads/2019/11/c%C3%B3mo-se-hace-un-plan-de-negocio.jpg",
             "descripcion": "El Curso más Completo para Emprender y Crear tu Empresa con Casos Prácticos, Plantilla Word y Excel Económico-Financiero",
             "docente": "Sergio Gonzáles",
             "hora": 4,
@@ -205,6 +216,7 @@
         {
             "nombre": "Negocio en Linea",
             "categoria": "Emprendimiento",
+            "img":"https://www.udep.edu.pe/hoy/wp-content/uploads/sites/49/2016/03/Negocios-por-Internet-3.jpg",
             "descripcion": "Inicia tu emprendimiento online desde 0 y consigue asentar las bases de un negocio sólido y escalable",
             "docente": "Mari Fernandez",
             "hora": 4,
@@ -228,6 +240,7 @@
         {
             "nombre": "Liderazgo",
             "categoria": "Emprendimiento",
+            "img":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/O4OJBW4HT5ETHLCFM6X2XU5EQQ.jpg",
             "descripcion": "Entrena tus habilidades de Liderazgo para crecer en tu carrera. Aprende a influir en los demás y logra seguidores leales",
             "docente": "Federico Garay",
             "hora": 1,
@@ -246,6 +259,7 @@
         {
             "nombre": "Habilidades de Comunicación",
             "categoria": "Comunicación",
+            "img":"https://us.123rf.com/450wm/sifotography/sifotography1705/sifotography170500310/79009042-concepto-de-barrera-de-idioma-hombre-guapo-hablando-con-una-mujer-joven-y-atractiva-con-signo-de-int.jpg?ver=6",
             "descripcion": "Curso Práctico Para Desarrollar y Mejorar Las Habilidades Comunicativas en Todas Las Áreas de la Vida.",
             "docente": "Elena Echeverria",
             "hora": 3,
@@ -264,6 +278,7 @@
         {
             "nombre": "Habilidades de Presentación",
             "categoria": "Comunicación",
+            "img":"https://www.mentedidactica.com/wp-content/uploads/2018/09/como-hablar-en-publico.jpg",
             "descripcion": "Desarrolla la habilidad de hablar y comunicarte adecuada y productivamente con tu audiencia",
             "docente": "Guido Rosas",
             "hora": 4,
@@ -279,6 +294,7 @@
         {
             "nombre": "Convence y Enamora al Hablar en Público",
             "categoria": "Comunicación",
+            "img":"https://cdn-screenshots.comidoc.net/1698124_3.png",
             "descripcion": "Sorprende, Entusiasma, Persuade, Motiva, al Hablar en Público con Presentaciones Impactantes y con la Máxima Elocuencia",
             "docente": "N.C Kurt",
             "hora": 4,
@@ -295,6 +311,7 @@
         {
             "nombre": "Escritura Creative",
             "categoria": "Comunicación",
+            "img":"https://www.tekmaneducation.com/wp-content/uploads/2021/01/Blogpost-7-tecnicas-escritura-creativa.jpg",
             "descripcion": "El arte del Relato",
             "docente": "",
             "hora": 4,
@@ -317,6 +334,7 @@
         {
             "nombre": "Entrenamiento en medio de Comunicacion",
             "categoria": "Comunicación",
+            "img":"https://360radio.com.co/wp-content/uploads/2017/12/Medios-de-comunicaci%C3%B3n-SK-Vivero.jpg",
             "descripcion": "Descubre cómo dar la talla los primeros días en una redacción de informativos",
             "docente": "Arianda Reina Garcia",
             "hora": 2,
@@ -335,6 +353,7 @@
         {
             "nombre": "Estrategía de Marketing",
             "categoria": "Comunicación",
+            "img":"https://www.comunicare.es/wp-content/uploads/2021/02/5-pasos-para-crear-una-estrategia-de-marketing-online-B-1-2.png",
             "descripcion": "Como selecionar e desenvolver mercados lucrativos.",
             "docente": "Marcelo Amaral",
             "hora": 4,
@@ -354,6 +373,7 @@
         {
             "nombre": "Seminario Teórico de Narración Oral",
             "categoria": "Comunicación",
+            "img":"https://sc.jalisco.gob.mx/sites/sc.jalisco.gob.mx/files/fino.png",
             "descripcion": "Adéntrate al mundo de la narración oral desde la perspectiva artesanal",
             "docente": "Palabra Dicha",
             "hora": 1,
@@ -370,6 +390,7 @@
         {
             "nombre": "Redacción Comercial",
             "categoria": "Comunicación",
+            "img":"http://2.bp.blogspot.com/-cJSK8WAjg4o/UbclXDtm_kI/AAAAAAAABUQ/sMkeC07gE1c/s1600/copywriter-typing-documents.jpg",
             "descripcion": "SECRETARIADO EJECUTIVO - ENTRENAMIENTO LABORAL",
             "docente": "Sandra Prax",
             "hora": 0,
@@ -386,6 +407,7 @@
         {
             "nombre": "Gestión de Proyectos",
             "categoria": "Gestión Empresarial",
+            "img":"https://d57439wlqx3vo.cloudfront.net/iblock/296/2968efcc9e9fdd0fe5118644654b8357/2f691b9bfc79812669a7eae2a7cb3431.png",
             "descripcion": "Este curso fue seleccionado para nuestra colección de cursos mejor calificados en los que confían empresas de todo el mundo.",
             "docente": "Mauricio Rubio",
             "hora": 4,
@@ -409,6 +431,7 @@
         {
             "nombre": "Habilidades de Negocio",
             "categoria": "Gestión Empresarial",
+            "img":"http://topmanagement.com.mx/wp-content/uploads/2017/04/Hult-7-habilidades-2017-620x350.jpg",
             "descripcion": " En este curso vamos a aprender las técnicas y estrategias más eficaces para alcanzar el éxito",
             "docente": "Antonio Santos",
             "hora": 4,
@@ -429,6 +452,7 @@
         {
             "nombre": "Getión de Tiempo",
             "categoria": "Gestión Empresarial",
+            "img":"https://www.semana.com/resizer/opJ-8oBVaPI3lprmG5imCUwxAr0=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/G5TPYVRWMJG7JB2AXJ2FID63MI.jpg",
             "descripcion": "¿Sospechas que no estás exprimiendo la vida a tope? ¿Has pensado alguna vez que es el día a día el que te controla a ti y no al revés? ¿Sabías que la mala gestión del tiempo, y por tanto de la vida, influye negativamente sobre la autoestima y la calidad de vida? Si te gustaría ser mucho más productivo en tu trabajo, olvidar para siempre la falta de control, sorprender a los demás, encontrar más tiempo para ti y para los tuyos, entonces este es tu curso",
             "docente": "Jonathan Benito",
             "hora": 4,
@@ -456,6 +480,7 @@
         {
             "nombre": "ISO 9001",
             "categoria": "Gestión Empresarial",
+            "img":"https://atnprodstge.blob.core.windows.net/atnassets/2015/11/ico-destinonegocio-norma-iso-90012015-istock-getty-images-1030x805-1.jpg",
             "descripcion": "Explicación Norma ISO9001:2015 + TODO el KIT de Plantillas para implementar un SGC + Herramienta Diagnóstico del SGC",
             "docente": "Cristian Cortes",
             "hora": 4,
@@ -472,6 +497,7 @@
         {
             "nombre": "Formación de Gerente (ventas)",
             "categoria": "Gestión Empresarial",
+            "img":"https://crehana-public-users.imgix.net/images/users/profiles/2d8ec19b/hdelcollado.jpg",
             "descripcion": "El propósito de este curso es ayudar a Ud. a tener presente los temas principales a los que debería prestar atención en su actividad, tener claro los factores críticos de éxito, y prevenir situaciones de fracaso.",
             "docente": "Orlando Serra",
             "hora": 0,
@@ -488,6 +514,7 @@
         {
             "nombre": "Estrategia de Negocios",
             "categoria": "Gestión Empresarial",
+            "img":"https://www.esan.edu.pe/images/blog/2015/10/13/silva-negocios-principal.jpg",
             "descripcion": "En este minicurso, haremos los cálculos necesarios para llevarte a alcanzar tu objetivo económico con tu negocio.",
             "docente": "Sandra Burgos",
             "hora": 0,
@@ -506,6 +533,7 @@
         {
             "nombre": "Cadena de Suministros",
             "categoria": "Gestión Empresarial",
+            "img":"https://www.mascontainer.com/wp-content/uploads/2020/01/Transparencia-en-la-cadena-de-suministro-%C2%BFqu%C3%A9-es-y-qu%C3%A9-significa.png",
             "descripcion": "Domine la planificación, la administración y la mejora de la cadena de abastecimiento de una empresa",
             "docente": "Dante Garcia",
             "hora": 4,
@@ -522,170 +550,212 @@
         },
         {
             "nombre": "Transformacion Personal",
+            "img":"https://www.exitopersonal.com/imagenes/tutorial-transformacion-personal_x2.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Productividad Personal",
+            "img":"https://1.bp.blogspot.com/-_sH7yyjav7k/XcA6l8q8ieI/AAAAAAAAIbw/LivUPFYwIYUFGw28IqdBR9WE29QrOkGMQCLcBGAsYHQ/s1600/aumentar%2Bla%2Bproductividad-min.png",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Liderazgo",
+            "img":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/O4OJBW4HT5ETHLCFM6X2XU5EQQ.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Desarrollo Profesional",
+            "img":"https://cdn.bizneo.com/blog/wp-content/uploads/2020/09/Desarrollo-profesional.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Paternidad y Relaciones",
+            "img":"https://revistaliterariamonolito.com/wp-content/uploads/2017/06/permiso-paternidad-1440x808-770x432.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Felicidad",
+            "img":"https://statics-cuidateplus.marca.com/cms/styles/natural/azblob/nina-feliz.jpg.webp?itok=Pvck6IQS",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Práticas esotéricas",
+            "img":"https://todosobremadrid.com/wp-content/uploads/2020/08/tienda-esoterica-madrid.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Desarrollo de Marca Personal",
+            "img":"https://overflow.pe/wp-content/uploads/2018/01/desarrollo-personal-y-marca-personal-etapas-complementarias.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Creatividad",
+            "img":"https://conecta.tec.mx/sites/default/files/styles/header_full/public/2020-10/hacks-liberar-tu-creatividad-si-estas-bloqueado.jpg?h=920929c4&itok=J3dRS8Fh",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Influencia",
+            "img":"https://unycos.com/blog/wp-content/uploads/2018/10/mano-subiendo-escalera.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Autoestima y Confianza",
+            "img":"https://www.amaitlp.org/wp-content/uploads/2015/06/12.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Gestión del estrés",
+            "img":"https://s3-eu-west-1.amazonaws.com/pqpub/pq1/246/chica-estres.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Memoria y técnicas de estudio",
+            "img":"https://normasapa.pro/wp-content/uploads/2018/11/6-tecnicas-de-estudio-para-personas-con-memoria-visual.jpg",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Motivación",
+            "img":"https://www.randstad.es/wp-content/uploads/2022/04/motivar_equipo_de_trabajo.webp",
             "categoria": "Desarrollo Personal"
         },
         {
             "nombre": "Marketing Digital",
+            "img":"https://directivosygerentes.es/wp-content/uploads/2018/12/tendencias-marketing-digital-2019-1-681x454.jpg",
             "categoria": "Marketing"
         },
         {
-            "nombre": "Optimisación de motores de búsqueda",
+            "nombre": "Optimización de motores de búsqueda",
+            "img":"https://www.antevenio.com/wp-content/uploads/2020/06/SEO-motores-busqueda.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Marketing de redes solciales",
+            "img":"https://uploads-ssl.webflow.com/609a988bf844fbe74e6102f9/609bbe253991aac90acf5c1a_606f70e7d6cd9b1bbc481f0d_marketing-rrss-guia-2020.jpeg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Creación de marca",
+            "img":"https://digitalisthub.com/wp-content/uploads/2016/08/192.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Fundamentos de marketing",
+            "img":"https://www.francoischung.com/wp-content/uploads/2020/07/fundamentos-de-marketing-digital.png",
             "categoria": "Marketing"
         },
         {
             "nombre": "Automatización y análisis de marketing",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Relaciones Públicas",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Publicidad de pago",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Crecimiento Acelerado",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Marketing"
         },
         {
             "nombre": "Desarrollo Web",
+            "img":"https://cdn.domestika.org/c_limit,dpr_auto,f_auto,q_auto,w_820/v1566492620/content-items/003/212/919/2-original.png?1566492620",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Ciencias de la Información",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Desarrollo Movil",
+            "img":"https://www.qualitydevs.com/wp-content/uploads/2021/03/Desarrollo-apps-moviles-1288x724.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Lenguaje de Programación",
+            "img":"https://www.aprendum.com/blog/wp-content/uploads/2017/11/lenguajesdeprogramacion_principal.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Diseño y Desarrollo de Basa de Datos",
+            "img":"https://www.syf.pe/wp-content/uploads/2021/01/base-datos2.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Desarrollo de Video Juegos",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Herramientas de Desarrollo de Software",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Desarrollo"
         },
         {
             "nombre": "Certificaciones de Informática",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Informática y Software"
         },
         {
             "nombre": "Redes y Seguridad",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Informática y Software"
         },
         {
             "nombre": "Hardware",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Informática y Software"
         },
         {
             "nombre": "Sistemas operativos y servidores",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Informática y Software"
         },
         {
             "nombre": "Tesorería",
+            "img":"https://www.esan.edu.pe/images/blog/2017/08/07/1500x844-tesoreria.jpg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Cumplimiento de Normas",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Criptomonedas y blockchain",
+            "img":"https://www.criptonoticias.com/wp-content/uploads/2018/07/bitcoin-blockchain-descentralizacion-distribucion.jpeg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Economía",
+            "img":"https://i0.wp.com/becodaspalavras.com/wp-content/uploads/2021/11/265919-redator-entregar-ate-2812-as-10heconomia-mundial-quais-sao-as-10-tendencias-para-os-proximos-anos.jpg?fit=2309%2C1299&ssl=1",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Modelos y analisis financieros",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Inversion y comercio",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Herramientas de gestión monetaria",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         },
         {
             "nombre": "Impuestos",
+            "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         }
     ],
