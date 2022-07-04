@@ -3,7 +3,7 @@
         {
             "nombre": "Jhon",
             "apellido": "Pillaca",
-            "dni":23485324,
+            "dni":73796881,
             "correo": "jhonspillaca12@gmail.com",
             "contrasena":"Mily12",
             "img": "https://w7.pngwing.com/pngs/517/964/png-transparent-user-profile-computer-icons-child-flat-people-child-face-hand.png"
@@ -18,548 +18,569 @@
         }
     ],
 
-    "cursos": {
-        "categoría": [
-            {
-                "Negocios": {
-                    "Recursos Humanos": {
-                        "Director de Recursos Humanos": {
-                            "descripcion": "Sé capaz de interpretar datos y tomar decisiones para liderar un departamento de RR.HH. Estudia una de las titulaciones más demandadas por las empresas.",
-                            "doncente": "Pedro Daniel Gomez",
-                            "hora": 3,
-                            "minuto": 15,
-                            "calificacion": 4.5,
-                            "estudiantes":200,
-                            "aprenderas": {
-                                "1": "Diseñar e implantar la estrategia de RRHH teniendo en cuenta los valores y necesidades de la compañía.",
-                                "2": "Diseñar y/o implementar las políticas y procedimientos de las diferentes áreas de los Recursos Humanos.",
-                                "3": "Definir y ejecutar el presupuesto del área de Recursos Humanos de una empresa.",
-                                "4": "Gestionar los equipos y personas correspondientes a cada área de su departamento. Dirigir y coordinar los departamentos y velar por el buen funcionamiento de su área y por la calidad del servicio también se engloba en este punto.",
-                                "5": "Analizar y gestionar el cuadro de mando de Recursos Humanos.",
-                                "6": "Asegurarse de que se cumple la normativa de gestión laboral y se cumple con las políticas diseñadas."
+    "cursos": [
+        {
+            "categoría": [
+                {
+                    "Negocios": [
+                        {
+                            "Recursos Humanos": {
+                                "Director de Recursos Humanos": {
+                                    "descripcion": "Sé capaz de interpretar datos y tomar decisiones para liderar un departamento de RR.HH. Estudia una de las titulaciones más demandadas por las empresas.",
+                                    "doncente": "Pedro Daniel Gomez",
+                                    "hora": 3,
+                                    "minuto": 15,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 200,
+                                    "aprenderas": {
+                                        "1": "Diseñar e implantar la estrategia de RRHH teniendo en cuenta los valores y necesidades de la compañía.",
+                                        "2": "Diseñar y/o implementar las políticas y procedimientos de las diferentes áreas de los Recursos Humanos.",
+                                        "3": "Definir y ejecutar el presupuesto del área de Recursos Humanos de una empresa.",
+                                        "4": "Gestionar los equipos y personas correspondientes a cada área de su departamento. Dirigir y coordinar los departamentos y velar por el buen funcionamiento de su área y por la calidad del servicio también se engloba en este punto.",
+                                        "5": "Analizar y gestionar el cuadro de mando de Recursos Humanos.",
+                                        "6": "Asegurarse de que se cumple la normativa de gestión laboral y se cumple con las políticas diseñadas."
+                                    }
+                                },
+                                "Técnico de selección de personal": {
+                                    "descripcion": "Técnico en Selección de Personal 2.0: Expert@ en Búsqueda y Gestión del Talento a través de las Redes Sociales",
+                                    "doncente": "Alvaro Irigoitia",
+                                    "hora": 2,
+                                    "minuto": 15,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 230,
+                                    "aprenderas": {
+                                        "1": "Conocimiento de la psicología individual",
+                                        "2": "Capacidad de observación",
+                                        "3": "Conocimiento de la organizació",
+                                        "4": "Conocimientos legislativos y normativo",
+                                        "5": "Conocimientos en redes sociales especializadas como LinkedIn y AngelList.",
+                                        "6": "Búsqueda de candidatos y atención al candidato.",
+                                        "7": "Análisis de puestos.",
+                                        "8": "Elaboración de informes.",
+                                        "9": "Captación.",
+                                        "10": "Redacción de ofertas.",
+                                        "11": "Recepción y criba de currículums.",
+                                        "12": "Mantenimiento de la base de datos.",
+                                        "13": "Realización de pruebas psicométricas y dinámicas de grupo."
+                                    }
+                                },
+                                "Business Partner en Recursos Humanos": {
+                                    "descripcion": "Un HR Business Partner es un profesional de recursos humanos que actúa como consultor interno, y aliado estratégico de la alta gerencia...",
+                                    "doncente": "Alvaro Irigoitia",
+                                    "hora": 4,
+                                    "minuto": 15,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 100,
+                                    "aprenderas": {
+                                        "1": "Definición e implantación de nuevas iniciativas",
+                                        "2": "Reclutamiento, desarrollo de talento y planes de carrera.",
+                                        "3": "Soporte en Relaciones Laborales y Administración de personal.",
+                                        "4": "Gestión de los beneficios sociales de la organización.",
+                                        "5": "Detección de necesidades de la compañía.",
+                                        "6": "Comunicación interna."
+                                    }
+                                },
+                                "Talent Manager en el área de Recursos Humanos": {
+                                    "descripcion": "Aprende a gestionar profesionalmente las redes de tu propia marca o consigue cleintes que necesiten este servicio",
+                                    "doncente": "Carlos Izquierdo",
+                                    "hora": 3,
+                                    "minuto": 45,
+                                    "calificacion": 3.5,
+                                    "estudiantes": 360,
+                                    "aprenderas": {
+                                        "1": "Detectar las necesidades de desarrollo en la empresa.",
+                                        "2": "Elaborar un plan de capacitación y de formación.",
+                                        "3": "Elaborar un programa de gestión y captación de talento.",
+                                        "4": "Establecer mecanismos que permitan medir las capacidades de los empleados: como diseñar un sistema de evaluación del desempeño.",
+                                        "5": "Apoyar a los responsables de equipo en la coordinación y gestión de las personas que los integran."
+                                    }
+                                },
+                                "Administración de personal": {
+                                    "descripcion": "Elimina el estres de tu vida. Planifica tu tiempo, organiza y alcanza tus metas",
+                                    "doncente": "Fernando del Arco",
+                                    "hora": 3,
+                                    "minuto": 30,
+                                    "calificacion": 3.5,
+                                    "estudiantes": 350,
+                                    "aprenderas": {
+                                        "1": "Definir los objetivos de administración de personal de la compañía",
+                                        "2": "Implantar las políticas de retribución e incentivos y administrar el pago de obligaciones y previsiones tributarias.",
+                                        "3": "Coordinación de los procesos relacionados con la prevención de riesgos laborales.",
+                                        "4": "Supervisar todos los procesos administrativos.",
+                                        "5": "Comunicación con los empleados y resolución de dudas relacionadas con su departamento.",
+                                        "6": "Coordinar la elaboración e implantación de sistemas de control de tiempo y otros que permitan supervisar la asistencia del personal."
+                                    }
+                                },
+                                "Comunicación interna del área de RRHH": {
+                                    "descripcion": "3 pasas para  conectar con el mundo interno",
+                                    "doncente": "David Bejarano",
+                                    "hora": 4,
+                                    "minuto": 30,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 400,
+                                    "aprenderas": {
+                                        "1": "Coordina acciones con las distintas áreas de la organización: enfocadas en la dirección comentada.",
+                                        "2": "Gestiona y emite comunicados internos.",
+                                        "3": "Puede dar soporte y ayudar a la definición del plan de comunicación general de la compañía.",
+                                        "4": "Traslada la cultura de la organización y la identidad corporativa a los empleados.",
+                                        "5": "Establece relaciones con otras instituciones y  las da a conocer a los trabajadores."
+                                    }
+                                }
                             }
                         },
-                        "Técnico de selección de personal": {
-                            "descripcion": "Técnico en Selección de Personal 2.0: Expert@ en Búsqueda y Gestión del Talento a través de las Redes Sociales",
-                            "doncente": "Alvaro Irigoitia",
-                            "hora": 2,
-                            "minuto": 15,
-                            "calificacion": 4.5,
-                            "estudiantes":230,
-                            "aprenderas": {
-                                "1": "Conocimiento de la psicología individual",
-                                "2": "Capacidad de observación",
-                                "3": "Conocimiento de la organizació",
-                                "4": "Conocimientos legislativos y normativo",
-                                "5": "Conocimientos en redes sociales especializadas como LinkedIn y AngelList.",
-                                "6": "Búsqueda de candidatos y atención al candidato.",
-                                "7": "Análisis de puestos.",
-                                "8": "Elaboración de informes.",
-                                "9": "Captación.",
-                                "10": "Redacción de ofertas.",
-                                "11": "Recepción y criba de currículums.",
-                                "12": "Mantenimiento de la base de datos.",
-                                "13": "Realización de pruebas psicométricas y dinámicas de grupo."
+                        {
+                            "Emprendimiento": {
+                                "Fundamentos Empresariales": {
+                                    "descripcion": "Aprende Finanzas, contabilidad, análisis de estados financieros, inversiones, modelos financieros y valoración.",
+                                    "docente": "José C. Herrera",
+                                    "hora": 2,
+                                    "minuto": 30,
+                                    "calificacion": 3,
+                                    "estudiantes": 221,
+                                    "aprenderas": {
+                                        "1": "Identificarás los estados financieros, sus características y principales componentes.",
+                                        "2": "Crearás un modelo financiero con capacidad de proyectar estados financieros.",
+                                        "3": "Entenderás los diferentes tipos de inversiones que suelen tener las empresas.",
+                                        "4": "Realizarás análisis de estados financieros de empresas reales.",
+                                        "5": "Aprenderás diferentes modelos de valoración de proyectos y empresas."
+                                    }
+                                },
+                                "Fundamentos de Emprendimiento": {
+                                    "descripcion": "Domina los 4 principios detrás de emprendimientos exitosos, minimiza riesgos y maximiza resultados.",
+                                    "docente": "José Luis Andrade",
+                                    "hora": 2,
+                                    "minuto": 30,
+                                    "calificacion": 3,
+                                    "estudiantes": 21,
+                                    "aprenderas": {
+                                        "1": "Tendrás una perspectiva de lo que enfrenta todo emprendedor.",
+                                        "2": "Tendrás ideas accionables para minimizar riesgos y maximizar resultados.",
+                                        "3": "Dominarás las cuatro claves para llevar todo emprendimiento a un siguiente nivel.",
+                                        "4": "Acelerarás tu curva de aprendizaje para poner en marcha un negocio."
+                                    }
+                                },
+                                "Estrategia de Negocio": {
+                                    "descripcion": "Aprende a utilizar Pinterest para generar una base de seguidores deseosos de tus productos y servicios.",
+                                    "docente": "José Luis Andrade",
+                                    "hora": 2,
+                                    "minuto": 30,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 210,
+                                    "aprenderas": {
+                                        "1": "Cómo funciona Pinterest, cuáles son sus secciones más importantes y cómo configurarlas adecuadamente",
+                                        "2": "Cómo crear pines y tableros optimizados y atractivos para que la gente tome acción sobre ellos",
+                                        "3": "Estrategias avanzadas y trucos pocos conocidos para posicionar tu negocio en Pinterest un paso adelante de tus competidores",
+                                        "4": "Qué hacen los mejores pineadores para tener éxito en Pinterest",
+                                        "5": "La manera de crear un plan de marketing claro, conciso y efectivo para establecer exitosamente un negocio en Pinterest",
+                                        "6": "Cómo crear un plan de marketing efectivo para conseguir fieles seguidores y enviar tráfico al sitio web",
+                                        "7": "Cuáles son las mejores herramientas para Pinterest que te ayudarán a ahorrar tiempo y esfuerzo en la gestión de tus campañas",
+                                        "8": "Qué características debe tener tu material para alentar a la gente a pinear lo y se vuelva viral"
+                                    }
+                                },
+                                "Coaching y Liderazgo Organizacional": {
+                                    "descripcion": "Curso de iniciación Profesional al Coaching Ontológico aplicado al Liderazgo en Organizaciones y Empresas emergentes",
+                                    "docente": "María Eugenia",
+                                    "hora": 5,
+                                    "minuto": 30,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 21,
+                                    "aprenderas": {
+                                        "1": "Adquirir los fundamentos del liderazgo y el coaching organizacional para iniciar la propia construcción del rol como líder coach.",
+                                        "2": "Implementar un proceso de coaching.",
+                                        "3": "Evaluar y realizar seguimiento de la gestión en procesos para orientar de forma adecuada los esfuerzos del grupo de trabajo hacia el objetivo común.",
+                                        "4": "Identificar los distintos tipos de coaching y estilos de liderazgo que existen.",
+                                        "5": "Dominar las principales técnicas y herramientas que facilitan el trabajo en equipo y mejoren la cohesión y la orientación a objetivos.",
+                                        "6": "Aprender a Transformar el coaching empresarial en un coaching de Vida (Life Coach Training)."
+                                    }
+                                },
+                                "Plan de Negocio": {
+                                    "descripcion": "El Curso más Completo para Emprender y Crear tu Empresa con Casos Prácticos, Plantilla Word y Excel Económico-Financiero",
+                                    "docente": "Sergio Gonzáles",
+                                    "hora": 4,
+                                    "minuto": 0,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "Reflexionar sobre tus motivaciones y el propósito para emprender.",
+                                        "2": "Aprender qué método debes utilizar para vender tus servicios y/o productos.",
+                                        "3": "Conocer las obligaciones fiscales, contables, laborales y legales que debes cumplir.",
+                                        "4": "Definir el modelo de negocio que vas a seguir y tu estrategia competitiva.",
+                                        "5": "Analizar la viabilidad económico-financiera de tu idea de negocio."
+                                    }
+                                },
+                                "Negocio en Linea": {
+                                    "descripcion": "Inicia tu emprendimiento online desde 0 y consigue asentar las bases de un negocio sólido y escalable",
+                                    "docente": "Mari Fernandez",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "Conocerte a ti primero",
+                                        "2": "Hacer un estudio y análisis de tu negocio y el mercado",
+                                        "3": "Definir tus colores y tipografías de marca",
+                                        "4": "Crear servicios, infoproductos y ofertas irresistibles",
+                                        "5": "Hacer una página web y unas páginas de venta y captación que conviertan",
+                                        "6": "Crear tu plan de marketing y mucho más",
+                                        "7": "Aprender a manejar tus finanzas",
+                                        "8": "Definir a tu cliente/a ideal",
+                                        "9": "Escoger tu modelo de negocio rentable",
+                                        "10": "Escoger el lead magnet perfecto",
+                                        "11": "Aprender a vender en tu web y redes sociales"
+                                    }
+                                },
+                                "Liderazgo": {
+                                    "descripcion": "Entrena tus habilidades de Liderazgo para crecer en tu carrera. Aprende a influir en los demás y logra seguidores leales",
+                                    "docente": "Federico Garay",
+                                    "hora": 1,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 1210,
+                                    "aprenderas": {
+                                        "1": "Dominarás las estrategias y metodologías del buen líder",
+                                        "2": "Gestionarás equipos de trabajo con seguridad y confianza",
+                                        "3": "Reconocerás prioriedades y generarás cambios",
+                                        "4": "Conocerás los pasos para llegar a ser un líder exitoso",
+                                        "5": "Manejarás la resolución de conflictos con eficacia",
+                                        "6": "Entenderás los Niveles y Es53tilos de liderazgo existentes (y cuándo aplicarlos)"
+                                    }
+                                }
                             }
                         },
-                        "Business Partner en Recursos Humanos": {
-                            "descripcion": "Un HR Business Partner es un profesional de recursos humanos que actúa como consultor interno, y aliado estratégico de la alta gerencia...",
-                            "doncente": "Alvaro Irigoitia",
-                            "hora": 4,
-                            "minuto": 15,
-                            "calificacion": 4.5,
-                            "estudiantes":100,
-                            "aprenderas": {
-                                "1": "Definición e implantación de nuevas iniciativas",
-                                "2": "Reclutamiento, desarrollo de talento y planes de carrera.",
-                                "3": "Soporte en Relaciones Laborales y Administración de personal.",
-                                "4": "Gestión de los beneficios sociales de la organización.",
-                                "5": "Detección de necesidades de la compañía.",
-                                "6": "Comunicación interna."
+                        {
+                            "Comunicación": {
+                                "Habilidades de Comunicación": {
+                                    "descripcion": "Curso Práctico Para Desarrollar y Mejorar Las Habilidades Comunicativas en Todas Las Áreas de la Vida.",
+                                    "docente": "Elena Echeverria",
+                                    "hora": 3,
+                                    "minuto": 0,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 2121,
+                                    "aprenderas": {
+                                        "1": "Expresarse con claridad, seguridad, confianza y eficacia en cualquier situación de la vida.",
+                                        "2": "Resolver conflictos y problemas con sencillez aplicando las técnicas aprendidas.",
+                                        "3": "Convertirse en una persona más asertiva, segura y feliz consigo misma.",
+                                        "4": "Mejorar radicalmente las relaciones personales y profesionales.",
+                                        "5": "Aumentar la confianza y autoestima.",
+                                        "6": "Dominar la comunicación verbal y no verbal."
+                                    }
+                                },
+                                "Habilidades de Presentación": {
+                                    "descripcion": "Desarrolla la habilidad de hablar y comunicarte adecuada y productivamente con tu audiencia",
+                                    "docente": "Guido Rosas",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 41,
+                                    "aprenderas": {
+                                        "1": "Herramientas prácticas para hablar en público con alto impacto",
+                                        "2": "Conocerás y dominarás el proceso para interactuar correctamente",
+                                        "3": "Estrategias efectivas para negociar con la audiencia"
+                                    }
+                                },
+                                "Convence y Enamora al Hablar en Público": {
+                                    "descripcion": "Sorprende, Entusiasma, Persuade, Motiva, al Hablar en Público con Presentaciones Impactantes y con la Máxima Elocuencia",
+                                    "docente": "N.C Kurt",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 3121,
+                                    "aprenderas": {
+                                        "1": "Mejorar mis relaciones interpersonales.",
+                                        "2": "Hablar sobre cualquier tema, en cualquier lugar y con cualquier persona o grupo de personas.",
+                                        "3": "Impresionar a los demás y ser el centro de reuniones.",
+                                        "4": "Presentar con elocuencia y persuasión cualquier contenido."
+                                    }
+                                },
+                                "Escritura Creative": {
+                                    "descripcion": "El arte del Relato",
+                                    "docente": "",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "escritura creativa",
+                                        "2": "estructura del relato",
+                                        "3": "literatura",
+                                        "4": "escribir descripciones",
+                                        "5": "construir escenas",
+                                        "6": "construir personajes",
+                                        "7": "el tono y el ritmo del relato",
+                                        "8": "escribir como un hábito",
+                                        "9": "de donde sacar ideas",
+                                        "10": "técnicas de escritura creativa"
+                                    }
+                                },
+                                "Entrenamiento en medio de Comunicacion": {
+                                    "descripcion": "Descubre cómo dar la talla los primeros días en una redacción de informativos",
+                                    "docente": "Arianda Reina Garcia",
+                                    "hora": 2,
+                                    "minuto": 0,
+                                    "calificacion": 5,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "Descubre las herramientas para buscar buenos temas para proponer en redacción",
+                                        "2": "Aprende a confirmar una noticia de forma eficaz y ahorrando tiempo",
+                                        "3": "Descubre las estrategias para detectar rápidamente el titular de una rueda de prensa",
+                                        "4": "Descubre cómo contactar con las fuentes institucionales y testimonios directos",
+                                        "5": "Descubre las estrategias para captar las ideas clave en las entrevistas y a repreguntar cuando es necesario",
+                                        "6": "Descubre las estrategias para condensar la información en una conexión en directo"
+                                    }
+                                },
+                                "Estrategía de Marketing": {
+                                    "descripcion": "Como selecionar e desenvolver mercados lucrativos.",
+                                    "docente": "Marcelo Amaral",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.3,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "Compreender os conceitos e processos de um Plano Estratégico de Marketing.",
+                                        "2": "Analisar e selecionar mercados-alvo onde atuar.",
+                                        "3": "Elaborar estratégias de marketing.",
+                                        "4": "Elaborar um Plano Estratégico de Marketing para a sua empresa.",
+                                        "5": "Elaborar uma análise do ambiente de marketing.",
+                                        "6": "Definir o posicionamento de mercado do seu produto ou serviço.",
+                                        "7": "Definir e implantar o marketing mix."
+                                    }
+                                },
+                                "Seminario Teórico de Narración Oral": {
+                                    "descripcion": "Adéntrate al mundo de la narración oral desde la perspectiva artesanal",
+                                    "docente": "Palabra Dicha",
+                                    "hora": 1,
+                                    "minuto": 0,
+                                    "calificacion": 0,
+                                    "estudiantes": 3,
+                                    "aprenderas": {
+                                        "1": "Analizar la narración oral desde una perspectiva teórica",
+                                        "2": "Contribuir a mejorar tu trabajo en la narración de cuentos",
+                                        "3": "Abordar el fenómeno de contar cuentos como un acto performativo",
+                                        "4": "Conocer aspectos históricos de la narración oral"
+                                    }
+                                },
+                                "Redacción Comercial": {
+                                    "descripcion": "SECRETARIADO EJECUTIVO - ENTRENAMIENTO LABORAL",
+                                    "docente": "Sandra Prax",
+                                    "hora": 0,
+                                    "minuto": 30,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 121,
+                                    "aprenderas": {
+                                        "1": "Redactar cartas comerciales de manera eficiente.",
+                                        "2": "Ganar seguridad al momento de redactar.",
+                                        "3": "Preparar en pocos minutos cualquier escrito relacionado con el ámbito laboral.",
+                                        "4": "Mejorar considerablemente la ortografía."
+                                    }
+                                }
                             }
+
                         },
-                        "Talent Manager en el área de Recursos Humanos": {
-                            "descripcion": "Aprende a gestionar profesionalmente las redes de tu propia marca o consigue cleintes que necesiten este servicio",
-                            "doncente": "Carlos Izquierdo",
-                            "hora": 3,
-                            "minuto": 45,
-                            "calificacion": 3.5,
-                            "estudiantes":360,
-                            "aprenderas":{
-                                "1": "Detectar las necesidades de desarrollo en la empresa.",
-                                "2": "Elaborar un plan de capacitación y de formación.",
-                                "3": "Elaborar un programa de gestión y captación de talento.",
-                                "4": "Establecer mecanismos que permitan medir las capacidades de los empleados: como diseñar un sistema de evaluación del desempeño.",
-                                "5": "Apoyar a los responsables de equipo en la coordinación y gestión de las personas que los integran."
+                        {
+                            "Gestión Empresarial": {
+                                "Gestión de Proyectos": {
+                                    "descripcion": "Este curso fue seleccionado para nuestra colección de cursos mejor calificados en los que confían empresas de todo el mundo.",
+                                    "docente": "Mauricio Rubio",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 4121,
+                                    "aprenderas": {
+                                        "1": "Liderar proyectos.",
+                                        "2": "Como arrancar su carrera en la Gestión de Proyectos.",
+                                        "3": "Cómo desarrollar un presupuesto, programación, caso de negocio, evaluación de riesgos y más.",
+                                        "4": "Entender los conceptos centrales de la Gestión de Proyectos y las fases de un proyecto.",
+                                        "5": "Usted aprenderá las habilidades claves que lo harán un gran Gerente de Proyectos.",
+                                        "6": "Gerencia de cambio en la Gestión de Proyectos.",
+                                        "7": "Administrar un equipo de proyecto con confianza.",
+                                        "8": "Cómo convertirse en un Gerente de Proyectos.",
+                                        "9": "Como usar distintas herramientas de Gestión de Proyectos implicaciones que lo llevaran al éxito.",
+                                        "10": "Entender las diferencias entre distintas metodologías de Gestión de Proyectos.",
+                                        "11": "Usted obtendrá los recursos que necesita para una certificación en la Gestión de Proyectos."
+                                    }
+                                },
+                                "Habilidades de Negocio": {
+                                    "descripcion": " En este curso vamos a aprender las técnicas y estrategias más eficaces para alcanzar el éxito",
+                                    "docente": "Antonio Santos",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 921,
+                                    "aprenderas": {
+                                        "1": "Mejorar nuestras habilidades comunicativas tanto en el entorno profesional como en el personal",
+                                        "2": "Obtener el mayor beneficio de los procesos de negociación que emprendamos",
+                                        "3": "Argumentar con eficacia",
+                                        "4": "Mejorar la comunicación verbal, adecuándola correctamente al entorno en que nos encontremos",
+                                        "5": "Aumentar la autoestima y la confianza en nosotros mismos",
+                                        "6": "Lograr mayor nivel de persuasión con nuestra forma de comunicar",
+                                        "7": "Aplicar todo el potencial que nos ofrece conocer los secretos de la comunicación no verbal",
+                                        "8": "Convertirnos en personas más asertivas y, por tanto, más seguras y más felices"
+                                    }
+                                },
+                                "Getión de Tiempo": {
+                                    "descripcion": "¿Sospechas que no estás exprimiendo la vida a tope? ¿Has pensado alguna vez que es el día a día el que te controla a ti y no al revés? ¿Sabías que la mala gestión del tiempo, y por tanto de la vida, influye negativamente sobre la autoestima y la calidad de vida? Si te gustaría ser mucho más productivo en tu trabajo, olvidar para siempre la falta de control, sorprender a los demás, encontrar más tiempo para ti y para los tuyos, entonces este es tu curso",
+                                    "docente": "Jonathan Benito",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 6121,
+                                    "aprenderas": {
+                                        "1": "Productividad profesional y productividad personal",
+                                        "2": "Conseguirás hacer más cosas en menos tiempo",
+                                        "3": "Sufrirás menos estrés a pesar de hacer más cosas",
+                                        "4": "Disfrutarás más de la vida",
+                                        "5": "Sabrás organizar reuniones eficientes",
+                                        "6": "Dominarás el correo electrónico",
+                                        "7": "Aprenderás a usar la Rueda de la Vida para fijar tus objetivos",
+                                        "8": "Sabrás cómo evitar crear situaciones imposibles",
+                                        "9": "Aprenderás a gestionar de forma correcta tu tiempo",
+                                        "10": "Sabrás gestionar las interrupciones",
+                                        "11": "Tendrás una gran sensación de control",
+                                        "12": "Dispondrás de más tiempo libre",
+                                        "13": "Aprenderás a diseñar tu hoja de ruta diaria",
+                                        "14": "Adquirirás conocimientos para que el WhatsApp no quite tanto tiempo",
+                                        "15": "Dominarás las técnicas de Timeboxing"
+                                    }
+                                },
+                                "ISO 9001": {
+                                    "descripcion": "Explicación Norma ISO9001:2015 + TODO el KIT de Plantillas para implementar un SGC + Herramienta Diagnóstico del SGC",
+                                    "docente": "Cristian Cortes",
+                                    "hora": 4,
+                                    "minuto": 0,
+                                    "calificacion": 4.5,
+                                    "estudiantes": 141,
+                                    "aprenderas": {
+                                        "1": " Interpretar correctamente todos los puntos de la Norma ISO9001:2015",
+                                        "2": "Implementar un Sistema de Gestión de Calidad en una empresa, como preparación para certificarse bajo la Norma ISO9001:2015",
+                                        "3": "Ejecuta una Evaluación de Diagnóstico del Sistema de Gestión de Calidad (DESTACADO)",
+                                        "4": "Mantener y Mejorar un Sistema de Gestión de Calidad que ya se encuentre implementado en una organización"
+                                    }
+                                },
+                                "Formación de Gerente (ventas)": {
+                                    "descripcion": "El propósito de este curso es ayudar a Ud. a tener presente los temas principales a los que debería prestar atención en su actividad, tener claro los factores críticos de éxito, y prevenir situaciones de fracaso.",
+                                    "docente": "Orlando Serra",
+                                    "hora": 0,
+                                    "minuto": 45,
+                                    "calificacion": 5,
+                                    "estudiantes": 5,
+                                    "aprenderas": {
+                                        "1": "Manejar gerencialmente su organización",
+                                        "2": "Relacionarse adecuadamente con el mercado",
+                                        "3": "Gestionar la actividad de ventas en forma eficiente",
+                                        "4": "Crecer en su desarrollo gerencial"
+                                    }
+                                },
+                                "Estrategia de Negocios": {
+                                    "descripcion": "En este minicurso, haremos los cálculos necesarios para llevarte a alcanzar tu objetivo económico con tu negocio.",
+                                    "docente": "Sandra Burgos",
+                                    "hora": 0,
+                                    "minuto": 30,
+                                    "calificacion": 3.5,
+                                    "estudiantes": 21,
+                                    "aprenderas": {
+                                        "1": "Establecerás tu objetivo económico",
+                                        "2": "Decidirás tu estrategia de negocio para alcanzar tu objetivo económico",
+                                        "3": "Obtendrás un montón de ejemplos replicables",
+                                        "4": "Harás los cálculos necesarios para alcanzarlo",
+                                        "5": "Conocerás tres estrategias para aumentar el valor de cada cliente",
+                                        "6": "Reflexionarás y tomarás decisiones"
+                                    }
+                                },
+                                "Cadena de Suministros": {
+                                    "descripcion": "Domine la planificación, la administración y la mejora de la cadena de abastecimiento de una empresa",
+                                    "docente": "Dante Garcia",
+                                    "hora": 4,
+                                    "minuto": 50,
+                                    "calificacion": 5,
+                                    "estudiantes": 21,
+                                    "aprenderas": {
+                                        "1": "Amplía o actualiza tus conocimientos de Gestión de la Cadena de Suministro y Gestión de Operaciones",
+                                        "2": "Adquiere fundamentos sobre pronósticos de la demanda, abastecimiento, transporte, almacenamiento y gestión de inventarios",
+                                        "3": "Conoce herramientas básicas para la evaluación económica-financiera de una empresa",
+                                        "4": "Familiarízate con metodologías y herramientas propias de la Gestión de la Cadena de Suministro",
+                                        "5": "Familiarízate con conceptos de metodologías de mejora continua, como Lean, Kaizen, Seis Sigma y Gestión de Calidad Total"
+                                    }
+                                }
                             }
-                           
-                        },
-                        "Administración de personal": {
-                            "descripcion": "Elimina el estres de tu vida. Planifica tu tiempo, organiza y alcanza tus metas",
-                            "doncente": "Fernando del Arco",
-                            "hora": 3,
-                            "minuto": 30,
-                            "calificacion": 3.5,
-                            "estudiantes":350,
-                            "aprenderas":{
-                                 "1": "Definir los objetivos de administración de personal de la compañía",
-                            "2": "Implantar las políticas de retribución e incentivos y administrar el pago de obligaciones y previsiones tributarias.",
-                            "3": "Coordinación de los procesos relacionados con la prevención de riesgos laborales.",
-                            "4": "Supervisar todos los procesos administrativos.",
-                            "5": "Comunicación con los empleados y resolución de dudas relacionadas con su departamento.",
-                            "6": "Coordinar la elaboración e implantación de sistemas de control de tiempo y otros que permitan supervisar la asistencia del personal."
-                            }
-                           
-                        },
-                        "Comunicación interna del área de RRHH": {
-                            "descripcion": "3 pasas para  conectar con el mundo interno",
-                            "doncente": "David Bejarano",
-                            "hora": 4,
-                            "minuto": 30,
-                            "calificacion": 4.5,
-                            "estudiantes":400,
-                            "aprenderas":{
-                                 "1": "Coordina acciones con las distintas áreas de la organización: enfocadas en la dirección comentada.",
-                            "2": "Gestiona y emite comunicados internos.",
-                            "3": "Puede dar soporte y ayudar a la definición del plan de comunicación general de la compañía.",
-                            "4": "Traslada la cultura de la organización y la identidad corporativa a los empleados.",
-                            "5": "Establece relaciones con otras instituciones y  las da a conocer a los trabajadores."
-                            }
-                           
                         }
-                    },
-                    "Emprendimiento":{
+                    ]
 
-                        "Fundamentos Empresariales":{
-                            "descripcion":"Aprende Finanzas, contabilidad, análisis de estados financieros, inversiones, modelos financieros y valoración.",
-                            "docente":"José C. Herrera",
-                            "hora":2,
-                            "minuto":30,
-                            "calificacion":3,
-                            "estudiantes":221,
-                            "aprenderas":{
-                                "1":"Identificarás los estados financieros, sus características y principales componentes.",
-                                "2":"Crearás un modelo financiero con capacidad de proyectar estados financieros.",
-                                "3":"Entenderás los diferentes tipos de inversiones que suelen tener las empresas.",
-                                "4":"Realizarás análisis de estados financieros de empresas reales.",
-                                "5":"Aprenderás diferentes modelos de valoración de proyectos y empresas."
-                            }
-                        },
-                        "Fundamentos de Emprendimiento":{
-                            "descripcion":"Domina los 4 principios detrás de emprendimientos exitosos, minimiza riesgos y maximiza resultados.",
-                            "docente":"José Luis Andrade",
-                            "hora":2,
-                            "minuto":30,
-                            "calificacion":3,
-                            "estudiantes":21,
-                            "aprenderas":{
-                                "1":"Tendrás una perspectiva de lo que enfrenta todo emprendedor.",
-                                "2":"Tendrás ideas accionables para minimizar riesgos y maximizar resultados.",
-                                "3":"Dominarás las cuatro claves para llevar todo emprendimiento a un siguiente nivel.",
-                                "4":"Acelerarás tu curva de aprendizaje para poner en marcha un negocio."
-                            }
-                        },
-                        "Estrategia de Negocio":{
-                            "descripcion":"Aprende a utilizar Pinterest para generar una base de seguidores deseosos de tus productos y servicios.",
-                            "docente":"José Luis Andrade",
-                            "hora":2,
-                            "minuto":30,
-                            "calificacion":4.5,
-                            "estudiantes":210,
-                            "aprenderas":{
-
-                                "1":"Cómo funciona Pinterest, cuáles son sus secciones más importantes y cómo configurarlas adecuadamente",
-                                "2":"Cómo crear pines y tableros optimizados y atractivos para que la gente tome acción sobre ellos",
-                                "3":"Estrategias avanzadas y trucos pocos conocidos para posicionar tu negocio en Pinterest un paso adelante de tus competidores",
-                                "4":"Qué hacen los mejores pineadores para tener éxito en Pinterest",
-                                "5":"La manera de crear un plan de marketing claro, conciso y efectivo para establecer exitosamente un negocio en Pinterest",
-                                "6":"Cómo crear un plan de marketing efectivo para conseguir fieles seguidores y enviar tráfico al sitio web",
-                                "7":"Cuáles son las mejores herramientas para Pinterest que te ayudarán a ahorrar tiempo y esfuerzo en la gestión de tus campañas",
-                                "8":"Qué características debe tener tu material para alentar a la gente a pinear lo y se vuelva viral"
-                            }
-                            
-                        },
-                        "Coaching y Liderazgo Organizacional":{
-                            "descripcion":"Curso de iniciación Profesional al Coaching Ontológico aplicado al Liderazgo en Organizaciones y Empresas emergentes",
-                            "docente":"María Eugenia",
-                            "hora":5,
-                            "minuto":30,
-                            "calificacion":4.5,
-                            "estudiantes":21,
-                            "aprenderas":{
-                                "1":"Adquirir los fundamentos del liderazgo y el coaching organizacional para iniciar la propia construcción del rol como líder coach.",
-                                "2":"Implementar un proceso de coaching.",
-                                "3":"Evaluar y realizar seguimiento de la gestión en procesos para orientar de forma adecuada los esfuerzos del grupo de trabajo hacia el objetivo común.",
-                                "4":"Identificar los distintos tipos de coaching y estilos de liderazgo que existen.",
-                                "5":"Dominar las principales técnicas y herramientas que facilitan el trabajo en equipo y mejoren la cohesión y la orientación a objetivos.",
-                                "6":"Aprender a Transformar el coaching empresarial en un coaching de Vida (Life Coach Training)."
-                            }
-                        },
-                        "Plan de Negocio":{
-                            "descripcion":"El Curso más Completo para Emprender y Crear tu Empresa con Casos Prácticos, Plantilla Word y Excel Económico-Financiero",
-                            "docente":"Sergio Gonzáles",
-                            "hora":4,
-                            "minuto":0,
-                            "calificacion":4.5,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"Reflexionar sobre tus motivaciones y el propósito para emprender.",
-                                "2":"Aprender qué método debes utilizar para vender tus servicios y/o productos.",
-                                "3":"Conocer las obligaciones fiscales, contables, laborales y legales que debes cumplir.",
-                                "4":"Definir el modelo de negocio que vas a seguir y tu estrategia competitiva.",
-                                "5":"Analizar la viabilidad económico-financiera de tu idea de negocio."
-                            }
-                        },
-                        "Negocio en Linea":{
-                            "descripcion":"Inicia tu emprendimiento online desde 0 y consigue asentar las bases de un negocio sólido y escalable",
-                            "docente":"Mari Fernandez",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"Conocerte a ti primero",
-                                "2":"Hacer un estudio y análisis de tu negocio y el mercado",
-                                "3":"Definir tus colores y tipografías de marca",
-                                "4":"Crear servicios, infoproductos y ofertas irresistibles",
-                                "5":"Hacer una página web y unas páginas de venta y captación que conviertan",
-                                "6":"Crear tu plan de marketing y mucho más",
-                                "7":"Aprender a manejar tus finanzas",
-                                "8":"Definir a tu cliente/a ideal",
-                                "9":"Escoger tu modelo de negocio rentable",
-                                "10":"Escoger el lead magnet perfecto",
-                                "11":"Aprender a vender en tu web y redes sociales"
-                            }
-                        },
-                        "Liderazgo":{
-                            "descripcion":"Entrena tus habilidades de Liderazgo para crecer en tu carrera. Aprende a influir en los demás y logra seguidores leales",
-                            "docente":"Federico Garay",
-                            "hora":1,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":1210,
-                            "aprenderas":{
-                                "1":"Dominarás las estrategias y metodologías del buen líder",
-                                "2":"Gestionarás equipos de trabajo con seguridad y confianza",
-                                "3":"Reconocerás prioriedades y generarás cambios",
-                                "4":"Conocerás los pasos para llegar a ser un líder exitoso",
-                                "5":"Manejarás la resolución de conflictos con eficacia",
-                                "6":"Entenderás los Niveles y Es53tilos de liderazgo existentes (y cuándo aplicarlos)"
-                            }
+                },
+                {
+                    "Desarrollo Personal": [
+                        {
+                            "1": "Transformacion Personal",
+                            "2": "Productividad Personal",
+                            "3": "Liderazgo",
+                            "4": "Desarrollo Profesional",
+                            "5": "Paternidad y Relaciones",
+                            "6": "Felicidad",
+                            "7": "Práticas esotéricas",
+                            "8": "Desarrollo de Marca Personal",
+                            "9": "Creatividad",
+                            "10": "Influencia",
+                            "11": "Autoestima y Confianza",
+                            "12": "Gestión del estrés",
+                            "13": "Memoria y técnicas de estudio",
+                            "14": "Motivación"
                         }
-                    },
-                    "Comunicación":{
-                        "Habilidades de Comunicación":{
-                            "descripcion":"Curso Práctico Para Desarrollar y Mejorar Las Habilidades Comunicativas en Todas Las Áreas de la Vida.",
-                            "docente":"Elena Echeverria",
-                            "hora":3,
-                            "minuto":0,
-                            "calificacion":4.5,
-                            "estudiantes":2121,
-                            "aprenderas":{
-                                "1":"Expresarse con claridad, seguridad, confianza y eficacia en cualquier situación de la vida.",
-                                "2":"Resolver conflictos y problemas con sencillez aplicando las técnicas aprendidas.",
-                                "3":"Convertirse en una persona más asertiva, segura y feliz consigo misma.",
-                                "4":"Mejorar radicalmente las relaciones personales y profesionales.",
-                                "5":"Aumentar la confianza y autoestima.",
-                                "6":"Dominar la comunicación verbal y no verbal."
-                            }
-                        },
-                        "Habilidades de Presentación":{
-                            "descripcion":"Desarrolla la habilidad de hablar y comunicarte adecuada y productivamente con tu audiencia",
-                            "docente":"Guido Rosas",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":41,
-                            "aprenderas":{
-                                "1":"Herramientas prácticas para hablar en público con alto impacto",
-                                "2":"Conocerás y dominarás el proceso para interactuar correctamente",
-                                "3":"Estrategias efectivas para negociar con la audiencia"
-                            }
-                        },
-                        "Convence y Enamora al Hablar en Público":{
-                            "descripcion":"Sorprende, Entusiasma, Persuade, Motiva, al Hablar en Público con Presentaciones Impactantes y con la Máxima Elocuencia",
-                            "docente":"N.C Kurt",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":3121,
-                            "aprenderas":{
-                                "1":"Mejorar mis relaciones interpersonales.",
-                                "2":"Hablar sobre cualquier tema, en cualquier lugar y con cualquier persona o grupo de personas.",
-                                "3":"Impresionar a los demás y ser el centro de reuniones.",
-                                "4":"Presentar con elocuencia y persuasión cualquier contenido."
-                            }
-                        },
-                        "Escritura Creative":{
-                            "descripcion":"El arte del Relato",
-                            "docente":"",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"escritura creativa",
-                                "2":"estructura del relato",
-                                "3":"literatura",
-                                "4":"escribir descripciones",
-                                "5":"construir escenas",
-                                "6":"construir personajes",
-                                "7":"el tono y el ritmo del relato",
-                                "8":"escribir como un hábito",
-                                "9":"de donde sacar ideas",
-                                "10":"técnicas de escritura creativa"
-                            }
-                        },
-                        "Entrenamiento en medio de Comunicacion":{
-                            "descripcion":"Descubre cómo dar la talla los primeros días en una redacción de informativos",
-                            "docente":"Arianda Reina Garcia",
-                            "hora":2,
-                            "minuto":0,
-                            "calificacion":5,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"Descubre las herramientas para buscar buenos temas para proponer en redacción",
-                                "2":"Aprende a confirmar una noticia de forma eficaz y ahorrando tiempo",
-                                "3":"Descubre las estrategias para detectar rápidamente el titular de una rueda de prensa",
-                                "4":"Descubre cómo contactar con las fuentes institucionales y testimonios directos",
-                                "5":"Descubre las estrategias para captar las ideas clave en las entrevistas y a repreguntar cuando es necesario",
-                                "6":"Descubre las estrategias para condensar la información en una conexión en directo"
-                            }
-                        },
-                        "Estrategía de Marketing":{
-                            "descripcion":"Como selecionar e desenvolver mercados lucrativos.",
-                            "docente":"Marcelo Amaral",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.3,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"Compreender os conceitos e processos de um Plano Estratégico de Marketing.",
-                                "2":"Analisar e selecionar mercados-alvo onde atuar.",
-                                "3":"Elaborar estratégias de marketing.",
-                                "4":"Elaborar um Plano Estratégico de Marketing para a sua empresa.",
-                                "5":"Elaborar uma análise do ambiente de marketing.",
-                                "6":"Definir o posicionamento de mercado do seu produto ou serviço.",
-                                "7":"Definir e implantar o marketing mix."
-                            }
-                        },
-
-                        "Seminario Teórico de Narración Oral":{
-                            "descripcion":"Adéntrate al mundo de la narración oral desde la perspectiva artesanal",
-                            "docente":"Palabra Dicha",
-                            "hora":1,
-                            "minuto":0,
-                            "calificacion":0,
-                            "estudiantes":3,
-                            "aprenderas":{
-                                "1":"Analizar la narración oral desde una perspectiva teórica",
-                                "2":"Contribuir a mejorar tu trabajo en la narración de cuentos",
-                                "3":"Abordar el fenómeno de contar cuentos como un acto performativo",
-                                "4":"Conocer aspectos históricos de la narración oral"
-                            }
-                        },
-                        "Redacción Comercial":{
-                            "descripcion":"SECRETARIADO EJECUTIVO - ENTRENAMIENTO LABORAL",
-                            "docente":"Sandra Prax",
-                            "hora":0,
-                            "minuto":30,
-                            "calificacion":4.5,
-                            "estudiantes":121,
-                            "aprenderas":{
-                                "1":"Redactar cartas comerciales de manera eficiente.",
-                                "2":"Ganar seguridad al momento de redactar.",
-                                "3":"Preparar en pocos minutos cualquier escrito relacionado con el ámbito laboral.",
-                                "4":"Mejorar considerablemente la ortografía."
-                            }
+                    ]
+                },
+                {
+                    "Marketing": [
+                        {
+                            "1": "Marketing Digital",
+                            "2": "Optimisación de motores de búsqueda",
+                            "3": "Marketing de redes solciales",
+                            "4": "Creación de marca",
+                            "5": "Fundamentos de marketing",
+                            "6": "Automatización y análisis de marketing",
+                            "7": "Relaciones Públicas",
+                            "8": "Publicidad de pago",
+                            "9": "Crecimiento Acelerado"
                         }
-                    },
-                    "Gestión Empresarial":{
-                        "Gestión de Proyectos":{
-                            "descripcion":"Este curso fue seleccionado para nuestra colección de cursos mejor calificados en los que confían empresas de todo el mundo.",
-                            "docente":"Mauricio Rubio",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":4121,
-                            "aprenderas":{
-                                "1":"Liderar proyectos.",
-                                "2":"Como arrancar su carrera en la Gestión de Proyectos.",
-                                "3":"Cómo desarrollar un presupuesto, programación, caso de negocio, evaluación de riesgos y más.",
-                                "4":"Entender los conceptos centrales de la Gestión de Proyectos y las fases de un proyecto.",
-                                "5":"Usted aprenderá las habilidades claves que lo harán un gran Gerente de Proyectos.",
-                                "6":"Gerencia de cambio en la Gestión de Proyectos.",
-                                "7":"Administrar un equipo de proyecto con confianza.",
-                                "8":"Cómo convertirse en un Gerente de Proyectos.",
-                                "9":"Como usar distintas herramientas de Gestión de Proyectos implicaciones que lo llevaran al éxito.",
-                                "10":"Entender las diferencias entre distintas metodologías de Gestión de Proyectos.",
-                                "11":"Usted obtendrá los recursos que necesita para una certificación en la Gestión de Proyectos."
-                            }
-                        },
-                        "Habilidades de Negocio":{
-                            "descripcion":" En este curso vamos a aprender las técnicas y estrategias más eficaces para alcanzar el éxito",
-                            "docente":"Antonio Santos",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":921,
-                            "aprenderas":{
-                                "1":"Mejorar nuestras habilidades comunicativas tanto en el entorno profesional como en el personal",
-                                "2":"Obtener el mayor beneficio de los procesos de negociación que emprendamos",
-                                "3":"Argumentar con eficacia",
-                                "4":"Mejorar la comunicación verbal, adecuándola correctamente al entorno en que nos encontremos",
-                                "5":"Aumentar la autoestima y la confianza en nosotros mismos",
-                                "6":"Lograr mayor nivel de persuasión con nuestra forma de comunicar",
-                                "7":"Aplicar todo el potencial que nos ofrece conocer los secretos de la comunicación no verbal",
-                                "8":"Convertirnos en personas más asertivas y, por tanto, más seguras y más felices"
-                            }
-                        },
-                        "Getión de Tiempo":{
-                            "descripcion":"¿Sospechas que no estás exprimiendo la vida a tope? ¿Has pensado alguna vez que es el día a día el que te controla a ti y no al revés? ¿Sabías que la mala gestión del tiempo, y por tanto de la vida, influye negativamente sobre la autoestima y la calidad de vida? Si te gustaría ser mucho más productivo en tu trabajo, olvidar para siempre la falta de control, sorprender a los demás, encontrar más tiempo para ti y para los tuyos, entonces este es tu curso",
-                            "docente":"Jonathan Benito",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":4.5,
-                            "estudiantes":6121,
-                            "aprenderas":{
-                                "1":"Productividad profesional y productividad personal",
-                                "2":"Conseguirás hacer más cosas en menos tiempo",
-                                "3":"Sufrirás menos estrés a pesar de hacer más cosas",
-                                "4":"Disfrutarás más de la vida",
-                                "5":"Sabrás organizar reuniones eficientes",
-                                "6":"Dominarás el correo electrónico",
-                                "7":"Aprenderás a usar la Rueda de la Vida para fijar tus objetivos",
-                                "8":"Sabrás cómo evitar crear situaciones imposibles",
-                                "9":"Aprenderás a gestionar de forma correcta tu tiempo",
-                                "10":"Sabrás gestionar las interrupciones",
-                                "11":"Tendrás una gran sensación de control",
-                                "12":"Dispondrás de más tiempo libre",
-                                "13":"Aprenderás a diseñar tu hoja de ruta diaria",
-                                "14":"Adquirirás conocimientos para que el WhatsApp no quite tanto tiempo",
-                                "15":"Dominarás las técnicas de Timeboxing"
-                            }
-                        },
-                        "ISO 9001":{
-                            "descripcion":"Explicación Norma ISO9001:2015 + TODO el KIT de Plantillas para implementar un SGC + Herramienta Diagnóstico del SGC",
-                            "docente":"Cristian Cortes",
-                            "hora":4,
-                            "minuto":0,
-                            "calificacion":4.5,
-                            "estudiantes":141,
-                            "aprenderas":{
-                                "1":" Interpretar correctamente todos los puntos de la Norma ISO9001:2015",
-                                "2":"Implementar un Sistema de Gestión de Calidad en una empresa, como preparación para certificarse bajo la Norma ISO9001:2015",
-                                "3":"Ejecuta una Evaluación de Diagnóstico del Sistema de Gestión de Calidad (DESTACADO)",
-                                "4":"Mantener y Mejorar un Sistema de Gestión de Calidad que ya se encuentre implementado en una organización"
-                            }
-                        },
-                        "Formación de Gerente (ventas)":{
-                            "descripcion":"El propósito de este curso es ayudar a Ud. a tener presente los temas principales a los que debería prestar atención en su actividad, tener claro los factores críticos de éxito, y prevenir situaciones de fracaso.",
-                            "docente":"Orlando Serra",
-                            "hora":0,
-                            "minuto":45,
-                            "calificacion":5,
-                            "estudiantes":5,
-                            "aprenderas":{
-                                "1":"Manejar gerencialmente su organización",
-                                "2":"Relacionarse adecuadamente con el mercado",
-                                "3":"Gestionar la actividad de ventas en forma eficiente",
-                                "4":"Crecer en su desarrollo gerencial"
-                            }
-                        },
-                        "Estrategia de Negocios":{
-                            "descripcion":"En este minicurso, haremos los cálculos necesarios para llevarte a alcanzar tu objetivo económico con tu negocio.",
-                            "docente":"Sandra Burgos",
-                            "hora":0,
-                            "minuto":30,
-                            "calificacion":3.5,
-                            "estudiantes":21,
-                            "aprenderas":{
-                                "1":"Establecerás tu objetivo económico",
-                                "2":"Decidirás tu estrategia de negocio para alcanzar tu objetivo económico",
-                                "3":"Obtendrás un montón de ejemplos replicables",
-                                "4":"Harás los cálculos necesarios para alcanzarlo",
-                                "5":"Conocerás tres estrategias para aumentar el valor de cada cliente",
-                                "6":"Reflexionarás y tomarás decisiones"
-                            }
-                        },
-                        "Cadena de Suministros":{
-                            "descripcion":"Domine la planificación, la administración y la mejora de la cadena de abastecimiento de una empresa",
-                            "docente":"Dante Garcia",
-                            "hora":4,
-                            "minuto":50,
-                            "calificacion":5,
-                            "estudiantes":21,
-                            "aprenderas":{
-                                "1":"Amplía o actualiza tus conocimientos de Gestión de la Cadena de Suministro y Gestión de Operaciones",
-                                "2":"Adquiere fundamentos sobre pronósticos de la demanda, abastecimiento, transporte, almacenamiento y gestión de inventarios",
-                                "3":"Conoce herramientas básicas para la evaluación económica-financiera de una empresa",
-                                "4":"Familiarízate con metodologías y herramientas propias de la Gestión de la Cadena de Suministro",
-                                "5":"Familiarízate con conceptos de metodologías de mejora continua, como Lean, Kaizen, Seis Sigma y Gestión de Calidad Total"
-                            }
+                    ]
+                },
+                {
+                    "Desarrollo": [
+                        {
+                            "1": "Desarrollo Web",
+                            "2": "Ciencias de la Información",
+                            "3": "Desarrollo Movil",
+                            "4": "Lenguaje de Programación",
+                            "5": "Diseño y Desarrollo de Basa de Datos",
+                            "6": "Desarrollo de Video Juegos",
+                            "7": "Herramientas de Desarrollo de Software"
                         }
-                    }
+                    ]
                 },
-
-                "Desarrollo Personal":{
-                    "1":"Transformacion Personal",
-                    "2":"Productividad Personal",
-                    "3":"Liderazgo",
-                    "4":"Desarrollo Profesional",
-                    "5":"Paternidad y Relaciones",
-                    "6":"Felicidad",
-                    "7":"Práticas esotéricas",
-                    "8":"Desarrollo de Marca Personal",
-                    "9":"Creatividad",
-                    "10":"Influencia",
-                    "11":"Autoestima y Confianza",
-                    "12":"Gestión del estrés",
-                    "13":"Memoria y técnicas de estudio",
-                    "14":"Motivación"
+                {
+                    "Informática y Software": [
+                        {
+                            "1": "Certificaciones de Informática",
+                            "2": "Redes y Seguridad",
+                            "3": "Hardware",
+                            "4": "Sistemas operativos y servidores"
+                        }
+                    ]
                 },
-
-                "Marketing":{
-                    "1":"Marketing Digital",
-                    "2":"Optimisación de motores de búsqueda",
-                    "3":"Marketing de redes solciales",
-                    "4":"Creación de marca",
-                    "5":"Fundamentos de marketing",
-                    "6":"Automatización y análisis de marketing",
-                    "7":"Relaciones Públicas",
-                    "8":"Publicidad de pago",
-                    "9":"Crecimiento Acelerado"
-                },
-
-                "Desarrollo":{
-                    "1":"Desarrollo Web",
-                    "2":"Ciencias de la Información",
-                    "3":"Desarrollo Movil",
-                    "4":"Lenguaje de Programación",
-                    "5":"Diseño y Desarrollo de Basa de Datos",
-                    "6":"Desarrollo de Video Juegos",
-                    "7":"Herramientas de Desarrollo de Software"
-                },
-                "Informática y Software":{
-                    "1":"Certificaciones de Informática",
-                    "2":"Redes y Seguridad",
-                    "3":"Hardware",
-                    "4":"Sistemas operativos y servidores"  
-                },
-                "Finanzas y Contabilidad":{
-                    "1":"Tesorería",
-                    "2":"Cumplimiento de Normas",
-                    "3":"Criptomonedas y blockchain",
-                    "4":"Economía",
-                    "5":"Modelos y analisis financieros",
-                    "6":"Inversion y comercio",
-                    "7":"Herramientas de gestión monetaria",
-                    "8":"Impuestos"
+                {
+                    "Finanzas y Contabilidad": [
+                        {
+                            "1": "Tesorería",
+                            "2": "Cumplimiento de Normas",
+                            "3": "Criptomonedas y blockchain",
+                            "4": "Economía",
+                            "5": "Modelos y analisis financieros",
+                            "6": "Inversion y comercio",
+                            "7": "Herramientas de gestión monetaria",
+                            "8": "Impuestos"
+                        }
+                    ]
                 }
-            }
-        ]
-    }
+            ]
+        }
+    ]
     
 
 }
-
