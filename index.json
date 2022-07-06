@@ -1,6 +1,45 @@
 {
 
+    "categorias":[
+        {
+            "cat_name":"Negocios",
+            "cat_img":"https://www.elg-asesores.com/images/joomlart/categories/12_elaboracion-plan-negocios.jpg"
+        },
+        {
+            "cat_name":"Comunicación",
+            "cat_img":"https://www.aauniv.com/s/blog/wp-content/uploads/2021/10/tipos-de-comunicacion-verbal.jpg"
+        },
+        {
+            "cat_name":"Emprendimiento",
+            "cat_img":"https://img.freepik.com/vector-gratis/estrategia-empresarial-dibujada-mano-piezas-rompecabezas_23-2149153453.jpg?w=2000"
+        },
+        {
+            "cat_name":"Gestión Empresarial",
+            "cat_img":"https://www.jda.es/wp-content/uploads/2020/01/image-from-rawpixel-id-1216743-jpeg-1110x550.jpg"
+        },
+        {
+            "cat_name":"Desarrollo Personal",
+            "cat_img":"https://soyemprendedor.co/wp-content/uploads/2017/02/Desarrollo-personal-1280x720.jpg"
+        },
+        {
+            "cat_name":"Marketing",
+            "cat_img":"https://mediterrani.com/wp-content/uploads/2020/10/objetivos-marketing.jpg"
+        },
+        {
+            "cat_name":"Desarrollo",
+            "cat_img":"https://okhosting.com/resources/uploads/2018/03/sistema-1024x481@2x.png"
+        },
+        {
+            "cat_name":"Informática y Seguridad",
+            "cat_img":"https://www.css.pe/wp-content/uploads/2017/03/Seguridad-Informatica-big.png"
+        },
+        {
+            "cat_name":"Finanzas y Contabilidad",
+            "cat_img":"https://www.unir.net/wp-content/uploads/2020/05/business-accounting-concept-business-man-using-calculator-with-and-picture-id948340038.jpg"
+        }
+    ],
     "cursos": [
+        
         {
             "nombre": "Director de Recursos Humanos",
             "categoria": "Negocios",
@@ -758,6 +797,65 @@
             "img":"https://plantillasdememes.com/img/plantillas/imagen-no-disponible01601774755.jpg",
             "categoria": "Finanzas y Contabilidad"
         }
+    ],
+    "edu_online":[
+{
+    "name":"Educación Online",
+    "descrip":"Disfruta aprendiendo desde casa, sin horarios y a tu ritmo. Tú decides cuándo seguir con cada unidad.",
+    "img":"https://blogs.ucontinental.edu.pe/wp-content/uploads/2020/07/diez-mitos-de-la-educacion-virtual-universidad-continental.jpg"
+},
+{
+    "name":"Acceso Elimitado",
+    "descrip":"Mientras tengas tu cuenta activa tendrás acceso a los contenidos grabados para siempre.",
+    "img":"https://image.shutterstock.com/z/stock-photo-unlimited-access-written-on-blue-key-of-metallic-keyboard-finger-pressing-key-1820752325.jpg"
+},
+{
+    "name":"Clases Cortas",
+    "descrip":"Micro e-learning, aprende con cursos concisos de 2 horas de duración en promedio, subdivididos en videos de max 10 minutos.",
+    "img":"https://www.itmadrid.com/wp-content/uploads/2019/04/itmadrid-que-es-elearning2.jpg"
+},
+{
+    "name":"Profesores Expertos",
+    "descrip":"Cada profesor te transmitirá sus conocimientos con pasión, ofreciéndote explicaciones claras y una perspectiva profesional.",
+    "img":"https://cognosonline.com/wp-content/uploads/2020/03/5-consejos-para-profesores-que-dan-clase-virtual-por-primera-vez5-consejos-para-profesores-que-dan-clase-virtual-por-primera-vez-1-1200x900.png"
+}
+    ],
+    "servicios":[
+{
+    "name":"Desarrollo de Software",
+    "descrip":"Estamos especializados en el desarrollo de software, principalmente en entornos de programación Microsoft .NET (Silver Partner de Microsoft en Application Development; Desarrollo de Software), Java y Delphi.",
+    "img":"https://www.senati.edu.pe/sites/default/files/2017/carrera/09/desarrollo-de-software-senati-1800-x-1190_0.jpg"
+},
+{
+    "name":"Sistemas Información Geográfica",
+    "descrip":"Todo sucede en algún lugar. Potencia tu organización gracias al conocimiento del dónde. Nos apoyamos en Sistemas de Información Geográfica (GIS) líderes del mercado, para poner en tu mano la mejor solución para capturar, analizar y sacar el máximo valor de los datos espaciales que te interesan.",
+    "img":"https://prod-discovery.edx-cdn.org/media/course/image/38b1571e-2183-476e-a59c-f8383c3e519d-0193919517e9.small.jpeg"
+},
+{
+    "name":"Desarrollo de APPS (Android & iOS)",
+    "descrip":"¿Necesitas una aplicación de moviles, válida para cualquier sistema operativo, que cubra las necesidades que tiene tu negocio? Aprovecha la oportunidad para poder vender más, trabajar de forma más productiva o controlar toda la información de tu compañía al instante.  Te ofrecemos soluciones profesionales de movilidad, desarrolladas a medida, que harán que saques el máximo partido a tu negocio. ",
+    "img":"https://cdn.appdesign.dev/wp-content/uploads/2021/07/tipos-de-aplicaciones-y-ejemplos-1024x683.jpg"
+},
+{
+    "name":"Software Gestión Empresarial",
+    "descrip":"Somos partner gold de las más avanzadas herramientas de gestión empresarial del mercado, como a3ERP, de Wolters Kluwer. Podemos completarlo con módulos adicionales desarrollados a medida en función de las necesidades del cliente.",
+    "img":"https://www.commercient.com/wp-content/uploads/2017/12/Como-aprovechar-el-potencial-de-tu-sistema-ERP.png"
+},
+{
+    "name":"Gestión de Sistemas",
+    "descrip":"Desde el estudio de las necesidades del cliente, pasando por el diseño de su infraestructura tecnológica, implantación y posterior soporte y mantenimiento informático de sus sistemas, nuestra empresa te brinda todas las soluciones posibles para tu modelo de negocio. Y lo montamos en tus instalaciones o en cloud (en la nube), según tus necesidades y requisitos.",
+    "img":"https://www.ceupe.com/images/easyblog_articles/1370/gestion-de-calidad.jpg"
+},
+{
+    "name":"Consultoría Informática",
+    "descrip":"Una buena elección y asesoramiento sobre los sistemas y herramientas informáticas que han de dar soporte a una organización es esencial para que ésta se mantenga en constante rendimiento",
+    "img":"https://i1.wp.com/integral-telecom.com/media/2017/06/consultoria-1.jpg?resize=495%2C293&ssl=1"
+},
+{
+    "name":"Web y Posicionamiento",
+    "descrip":"Que tu empresa u organización tenga una presencia web es algo imprescindible hoy en día, pero ya no es suficiente. El número de sitios y páginas web crece constantemente y ha hecho necesario buscar técnicas para que los clientes o el público al que nuestras páginas van dirigidas puedan además encontrarnos fácilmente entre todos los sitios de nuestra competencia.",
+    "img":"https://x7y8v4y2.stackpathcdn.com/wp-content/uploads/2016/10/Trucos-SEO-10-Estrategias-para-posicionar-tu-web.png"
+}
     ],
  
     "usuarios": [
