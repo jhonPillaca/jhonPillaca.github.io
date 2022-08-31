@@ -330,23 +330,7 @@
                 "3": "Estrategias efectivas para negociar con la audiencia"
             }
         },
-        {
-            "nombre": "Convence y Enamora al Hablar en Público",
-            "categoria": "Comunicación",
-            "img":"https://cdn-screenshots.comidoc.net/1698124_3.png",
-            "descripcion": "Sorprende, Entusiasma, Persuade, Motiva, al Hablar en Público con Presentaciones Impactantes y con la Máxima Elocuencia",
-            "docente": "N.C Kurt",
-            "hora": 4,
-            "minuto": 50,
-            "calificacion": 4.5,
-            "estudiantes": 3121,
-            "aprenderas": {
-                "1": "Mejorar mis relaciones interpersonales.",
-                "2": "Hablar sobre cualquier tema, en cualquier lugar y con cualquier persona o grupo de personas.",
-                "3": "Impresionar a los demás y ser el centro de reuniones.",
-                "4": "Presentar con elocuencia y persuasión cualquier contenido."
-            }
-        },
+        
         {
             "nombre": "Escritura Creative",
             "categoria": "Comunicación",
@@ -389,26 +373,7 @@
                 "6": "Descubre las estrategias para condensar la información en una conexión en directo"
             }
         },
-        {
-            "nombre": "Estrategía de Marketing",
-            "categoria": "Comunicación",
-            "img":"https://www.comunicare.es/wp-content/uploads/2021/02/5-pasos-para-crear-una-estrategia-de-marketing-online-B-1-2.png",
-            "descripcion": "Como selecionar e desenvolver mercados lucrativos.",
-            "docente": "Marcelo Amaral",
-            "hora": 4,
-            "minuto": 50,
-            "calificacion": 4.3,
-            "estudiantes": 121,
-            "aprenderas": {
-                "1": "Compreender os conceitos e processos de um Plano Estratégico de Marketing.",
-                "2": "Analisar e selecionar mercados-alvo onde atuar.",
-                "3": "Elaborar estratégias de marketing.",
-                "4": "Elaborar um Plano Estratégico de Marketing para a sua empresa.",
-                "5": "Elaborar uma análise do ambiente de marketing.",
-                "6": "Definir o posicionamento de mercado do seu produto ou serviço.",
-                "7": "Definir e implantar o marketing mix."
-            }
-        },
+     
         {
             "nombre": "Seminario Teórico de Narración Oral",
             "categoria": "Comunicación",
